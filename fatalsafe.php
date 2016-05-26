@@ -117,7 +117,7 @@ class FatalSafe
 
             }
             update_option('fatalsafe', $fatalErrorMessage);
-            echo "<h1>Don't Panic! Refresh This Page To Get Some Oxygen</h1>";
+            //echo "<h1>Don't Panic! Refresh This Page To Get Some Oxygen</h1>";
         }
 
     }
